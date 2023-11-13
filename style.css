@@ -1,0 +1,22 @@
+.mx-325 {
+    margin-right: 325px;
+    margin-left: 325px;
+}
+.global-cont{
+    max-width: 2000px;
+    margin: 0 auto;
+}
+.img-98{
+    max-width: 98%;
+    height: auto;
+}
+#foot{
+    background-image: url(./imgs/Fast\ and\ Furious\ 3\ \(tokyo\ drift\)_Moment.jpg);
+    background-size: cover;
+}
+.bg-blac{
+    background-color:rgb(32, 32, 34);
+}
+.bg-gray{
+    background-color:rgb(45, 45, 48);
+}
